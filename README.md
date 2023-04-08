@@ -1,3 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WIp9x9Hw7bLDT89xtPXhZEOyUs9ULGUC?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IKolzin/kandinsky-picture-maker/blob/main/Picture_maker_(Kandinsky_2_1).ipynb)
 
 A simple Colab form to make pictures using Kandinsky 2.1
